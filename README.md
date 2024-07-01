@@ -2,7 +2,7 @@
 - 👀 I’m interested in digital forensics, investigation, incident repsonse, white collar crime and missing persons. 
 - 🌱 I’m currently learning OSINT techniques.
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I found myself in my degree program after working as a Private Investigator for a year, while running my hair salon. Turns out, Im really good at finding people, 
+- ⚡ Fun fact: I found myself in my degree program after working as a Private Investigator, while running my hair salon. Turns out, I'm really good at finding people, 
  finding out about people, AND doing hair. 
 
 <!---
